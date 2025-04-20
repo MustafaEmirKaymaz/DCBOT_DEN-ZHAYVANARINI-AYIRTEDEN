@@ -1,1 +1,1 @@
-# DCBOT_DEN-ZHAYVANARINI-AYIRTEDEN bu Bir benim tarafımdan yapılan bir discord botdur kullanabilmek için $ayır sisttemini kullanarak attıınız resimleri ayırt edebilir ama sadece şu anlık deniz hayvanlarını kullanabilirsiniz. TEşekkürler
+# DCBOT_DEN-ZHAYVANARINI-AYIRTEDEN bu Bir benim tarafımdan yapılan bir discord botdur kullanabilmek için $yukle sisttemini kullanarak attıınız resimleri ayırt edebilir ama sadece şu anlık deniz hayvanlarını kullanabilirsiniz. Teşekkürler
