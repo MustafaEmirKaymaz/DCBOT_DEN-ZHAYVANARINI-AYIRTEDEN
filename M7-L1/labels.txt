@@ -1,0 +1,6 @@
+0 balık
+1 karadees
+2 köpek balığı
+3 yunus
+4 deniz atı
+5 deniz kaplumbağası
